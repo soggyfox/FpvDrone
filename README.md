@@ -12,6 +12,6 @@ In progress:
 - vtx
 - frame
 
-## Got 
+Got: 
 - motors
 - blades
