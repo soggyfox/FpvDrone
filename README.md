@@ -12,6 +12,6 @@
 - vtx
 - frame
 
-**Got: **
+**Got:**
 - motors
 - blades
