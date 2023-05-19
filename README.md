@@ -1,12 +1,15 @@
 # FpvDrone
 
 ## Equipment
-Still Need:
-- flight controller 
-- capacitor
-- vtx
-- antenna
+Yet to get:
 - battery
+- antenna
+- capacitor (maybe)
+
+In progress:
+- flight controller 
+- capacitor (maybe)
+- vtx
 - frame
 
 ## Got 
