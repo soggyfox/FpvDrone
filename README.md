@@ -2,7 +2,6 @@
 
 ## Equipment
 **Yet to get:**
-- battery
 - antenna
 - capacitor (maybe)
 
@@ -11,6 +10,7 @@
 - capacitor (maybe)
 - vtx
 - frame
+- battery
 
 **Got:**
 - motors
