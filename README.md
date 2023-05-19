@@ -1,17 +1,17 @@
 # FpvDrone
 
 ## Equipment
-Yet to get:
+**Yet to get:**
 - battery
 - antenna
 - capacitor (maybe)
 
-In progress:
+**In progress:**
 - flight controller 
 - capacitor (maybe)
 - vtx
 - frame
 
-Got: 
+**Got: **
 - motors
 - blades
