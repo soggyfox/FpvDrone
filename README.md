@@ -6,12 +6,12 @@
 - capacitor (maybe)
 
 **In progress:**
-- flight controller 
 - capacitor (maybe)
 - vtx
-- frame
 - battery
 
 **Got:**
 - motors
 - blades
+- frame
+- flight controller 
